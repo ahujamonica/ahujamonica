@@ -36,27 +36,47 @@ interests:
 ## `$ tree tech-stack/`
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="55" title="Java" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="55" title="C++" alt="C++" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="55" title="Python" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="55" title="JavaScript" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" width="55" title="TypeScript" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="55" title="Spring Boot" alt="Spring Boot" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="55" title="React" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" title="Node.js" alt="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="55" title="HTML" alt="HTML" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="55" title="CSS" alt="CSS" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="55" title="Tailwind CSS" alt="Tailwind CSS" />
+</p>
 
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript" 
-       title="Java • C++ • Python • JavaScript • TypeScript"
-       alt="Java, C++, Python, JavaScript, TypeScript" />
-
-  <br><br>
-
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,html,css" 
-       title="Spring Boot • React • Node.js • HTML • CSS"
-       alt="Spring Boot, React, Node.js, HTML, CSS" />
-
-  <br><br>
-
-  <img src="https://skillicons.dev/icons?i=tailwind,mysql,mongodb,aws,docker" 
-       title="Tailwind CSS • MySQL • MongoDB • AWS • Docker"
-       alt="Tailwind CSS, MySQL, MongoDB, AWS, Docker" />
-
-  <br><br>
-
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" 
-       title="Git • GitHub • Postman • VS Code • IntelliJ IDEA"
-       alt="Git, GitHub, Postman, VS Code, IntelliJ IDEA" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="55" title="MySQL" alt="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" title="MongoDB" alt="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="55" title="AWS" alt="AWS" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="55" title="Docker" alt="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="55" title="Git" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="55" title="GitHub" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="55" title="Postman" alt="Postman" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="55" title="VS Code" alt="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" width="55" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="55" title="Linux" alt="Linux" />
 </p>
