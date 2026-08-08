@@ -33,46 +33,53 @@ interests:
   - Building Real-World Products
 ```
 ---
-
 ## `$ tree tech-stack/`
 
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,mysql" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL" alt="SQL" />
 </p>
 
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
 </p>
 
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
 </p>
 
 ### 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
 </p>
