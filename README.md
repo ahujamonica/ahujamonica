@@ -78,5 +78,5 @@ interests:
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=idea" width="55" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="55" title="Linux" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/mediapipe" width="55" title="MediaPipe" alt="MediaPipe" />
 </p>
