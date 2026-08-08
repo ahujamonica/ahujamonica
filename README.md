@@ -114,8 +114,8 @@ A touchless virtual mouse that uses hand tracking to control cursor movement, cl
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahujamonica&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-    alt="GitHub Stats"
+    src="./assets/github-stats.svg"
+    width="900"
+    alt="GitHub Statistics"
   />
 </p>
