@@ -31,3 +31,48 @@ interests:
   - Full Stack Development
   - Data Structures & Algorithms
   - Building Real-World Products
+```
+---
+
+## `$ tree tech-stack/`
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,mysql" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+### 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
