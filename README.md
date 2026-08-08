@@ -119,6 +119,7 @@ A full-stack platform for managing job applications, resume versions, interviews
 
 **Stack:** `Java` `Spring Boot` `React` `MySQL` `JWT` `Recharts`
 
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-238636?style=for-the-badge)](https://www.youtube.com/watch?v=NF1NXRcrL0E)
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahujamonica/CareerFlow)
 
 ---
@@ -131,6 +132,7 @@ A touchless virtual mouse that uses hand tracking to control cursor movement, cl
 
 **Stack:** `React` `TypeScript` `Python` `MediaPipe` `WebSockets` `PyAutoGUI`
 
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-238636?style=for-the-badge)](youtube.com/watch?si=eKTXq8BoFOC7v1vn&v=vavNHjjURAI&feature=youtu.be)
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahujamonica/VirtualMouse)
 
 ---
