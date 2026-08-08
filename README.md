@@ -19,19 +19,45 @@
 
 ## `$ whoami`
 
-```yaml
-name: Monica Ahuja
-role: Software Engineer
-specialization: Java Backend Development
-education: Computer Engineering
-location: Mumbai, India
+<table width="100%">
+<tr>
+
+<td width="52%" valign="middle">
+
+```text
+monica@github:~$ whoami
+
+name            : Monica Ahuja
+role            : Software Engineer
+specialization  : Java Backend Development
+education       : Computer Engineering
+location        : Mumbai, India
 
 interests:
-  - Backend Development
-  - Full Stack Development
-  - Data Structures & Algorithms
-  - Building Real-World Products
+  ├── Backend Development
+  ├── Full Stack Development
+  ├── Data Structures & Algorithms
+  └── Building Real-World Products
 ```
+
+</td>
+
+<td width="48%" align="center" valign="middle">
+
+<a href="https://leetcode.com/u/_monicaaa/">
+  <img
+    src="https://leetcard.jacoblin.cool/_monicaaa?theme=dark&font=Fira%20Code&ext=activity"
+    width="95%"
+    alt="Monica's LeetCode Stats"
+  />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+
 ---
 ## `$ tree tech-stack/`
 
