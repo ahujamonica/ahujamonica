@@ -32,7 +32,7 @@ name            : Monica Ahuja
 role            : Software Engineer
 specialization  : Java Backend Development
 education       : Computer Engineering
-location        : Mumbai, India
+location        : Maharashtra, India
 
 interests:
   ├── Backend Development
