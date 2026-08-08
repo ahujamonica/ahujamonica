@@ -108,4 +108,14 @@ A touchless virtual mouse that uses hand tracking to control cursor movement, cl
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahujamonica/VirtualMouse)
 
 ---
+---
 
+## `$ git stats`
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ahujamonica&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+</p>
