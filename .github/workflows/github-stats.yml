@@ -18,9 +18,10 @@ jobs:
 
       - name: Generate GitHub statistics
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_STATS_TOKEN }}
         run: |
           python scripts/github_stats.py
+          python scripts/github_stats_svg.py
 
       - name: Commit updated stats
         run: |
