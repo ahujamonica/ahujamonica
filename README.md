@@ -164,3 +164,23 @@ A touchless virtual mouse that uses hand tracking to control cursor movement, cl
 <div align="center">
 <img src="./assets/heyitsme.gif" width="100%" alt="Monica Ahuja" />
 </div>
+
+---
+
+## `$ connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/monica-ahuja01/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ahujamonica9321@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/_monicaaa/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+</div>
