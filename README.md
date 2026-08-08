@@ -132,7 +132,7 @@ A touchless virtual mouse that uses hand tracking to control cursor movement, cl
 
 **Stack:** `React` `TypeScript` `Python` `MediaPipe` `WebSockets` `PyAutoGUI`
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-238636?style=for-the-badge)](youtube.com/watch?si=eKTXq8BoFOC7v1vn&v=vavNHjjURAI&feature=youtu.be)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-238636?style=for-the-badge)](https://youtu.be/vavNHjjURAI?si=QqYQm2HmYVizOJNW)
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahujamonica/VirtualMouse)
 
 ---
