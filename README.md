@@ -80,3 +80,32 @@ interests:
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mediapipe" width="55" title="MediaPipe" alt="MediaPipe" />
 </p>
+
+---
+
+## `$ ls projects/`
+
+### `01` — CareerFlow
+
+> **Job Application Lifecycle Manager**
+
+A full-stack platform for managing job applications, resume versions, interviews, and application analytics.
+
+**Stack:** `Java` `Spring Boot` `React` `MySQL` `JWT` `Recharts`
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahujamonica/CareerFlow)
+
+---
+
+### `02` — VirtualMouse
+
+> **Real-Time Hand Gesture Controller**
+
+A touchless virtual mouse that uses hand tracking to control cursor movement, clicking, and dragging through webcam gestures.
+
+**Stack:** `React` `TypeScript` `Python` `MediaPipe` `WebSockets` `PyAutoGUI`
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahujamonica/VirtualMouse)
+
+---
+
