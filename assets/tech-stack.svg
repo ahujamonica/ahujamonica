@@ -1,0 +1,186 @@
+<svg width="900" height="430" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg">
+  <title>Monica Ahuja's technology stack</title>
+  <desc>Floating technology logos including Java, C++, Python, JavaScript, TypeScript, Spring Boot, React, Node.js, HTML, CSS, Tailwind CSS, MySQL, MongoDB, AWS, Docker, Git, GitHub, Postman, VS Code, IntelliJ IDEA, REST APIs, JWT and MediaPipe.</desc>
+
+  <style>
+    .float1 { animation: float1 5.5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .float2 { animation: float2 6.5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .float3 { animation: float3 7s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .float4 { animation: float4 5.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+
+    @keyframes float1 {
+      0%,100% { transform: translate(0,0) rotate(-1deg); }
+      50% { transform: translate(0,-9px) rotate(1deg); }
+    }
+    @keyframes float2 {
+      0%,100% { transform: translate(0,2px) rotate(1deg); }
+      50% { transform: translate(5px,-7px) rotate(-1deg); }
+    }
+    @keyframes float3 {
+      0%,100% { transform: translate(0,0) rotate(1deg); }
+      50% { transform: translate(-4px,-10px) rotate(-1deg); }
+    }
+    @keyframes float4 {
+      0%,100% { transform: translate(0,1px) rotate(-1deg); }
+      50% { transform: translate(4px,-6px) rotate(1deg); }
+    }
+
+    .icon {
+      cursor: help;
+      transition: transform .2s ease, opacity .2s ease;
+    }
+    .icon:hover {
+      transform: scale(1.12);
+      opacity: .9;
+    }
+  </style>
+
+  <!-- subtle terminal-style background -->
+  <rect x="1" y="1" width="898" height="428" rx="18" fill="#0d1117" stroke="#30363d"/>
+
+  <g opacity=".28" fill="#39d353">
+    <circle cx="32" cy="32" r="5"/>
+    <circle cx="50" cy="32" r="5"/>
+    <circle cx="68" cy="32" r="5"/>
+  </g>
+  <text x="95" y="38" fill="#8b949e" font-family="monospace" font-size="14">monica@github:~$ tech-stack</text>
+
+  <!-- Java -->
+  <g class="icon float1" transform="translate(105 100)">
+    <title>Java</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/openjdk/ED8B00"/>
+  </g>
+
+  <!-- C++ -->
+  <g class="icon float3" transform="translate(260 72)">
+    <title>C++</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/cplusplus/00599C"/>
+  </g>
+
+  <!-- Python -->
+  <g class="icon float2" transform="translate(420 115)">
+    <title>Python</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/python/3776AB"/>
+  </g>
+
+  <!-- JavaScript -->
+  <g class="icon float4" transform="translate(580 78)">
+    <title>JavaScript</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/javascript/F7DF1E"/>
+  </g>
+
+  <!-- TypeScript -->
+  <g class="icon float1" transform="translate(740 112)">
+    <title>TypeScript</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/typescript/3178C6"/>
+  </g>
+
+  <!-- Spring Boot -->
+  <g class="icon float2" transform="translate(175 190)">
+    <title>Spring Boot</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/springboot/6DB33F"/>
+  </g>
+
+  <!-- React -->
+  <g class="icon float4" transform="translate(345 205)">
+    <title>React</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/react/61DAFB"/>
+  </g>
+
+  <!-- Node.js -->
+  <g class="icon float3" transform="translate(515 180)">
+    <title>Node.js</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/nodedotjs/339933"/>
+  </g>
+
+  <!-- AWS -->
+  <g class="icon float1" transform="translate(680 205)">
+    <title>AWS</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/amazonwebservices/FF9900"/>
+  </g>
+
+  <!-- HTML -->
+  <g class="icon float3" transform="translate(80 285)">
+    <title>HTML</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/html5/E34F26"/>
+  </g>
+
+  <!-- CSS -->
+  <g class="icon float2" transform="translate(235 310)">
+    <title>CSS</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/css/1572B6"/>
+  </g>
+
+  <!-- Tailwind CSS -->
+  <g class="icon float4" transform="translate(390 290)">
+    <title>Tailwind CSS</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/tailwindcss/06B6D4"/>
+  </g>
+
+  <!-- MySQL -->
+  <g class="icon float1" transform="translate(545 315)">
+    <title>MySQL</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/mysql/4479A1"/>
+  </g>
+
+  <!-- MongoDB -->
+  <g class="icon float3" transform="translate(700 290)">
+    <title>MongoDB</title>
+    <image width="58" height="58" href="https://cdn.simpleicons.org/mongodb/47A248"/>
+  </g>
+
+  <!-- Git -->
+  <g class="icon float2" transform="translate(125 370)">
+    <title>Git</title>
+    <image width="48" height="48" href="https://cdn.simpleicons.org/git/F05032"/>
+  </g>
+
+  <!-- GitHub -->
+  <g class="icon float4" transform="translate(245 375)">
+    <title>GitHub</title>
+    <image width="48" height="48" href="https://cdn.simpleicons.org/github/F0F6FC"/>
+  </g>
+
+  <!-- Docker -->
+  <g class="icon float1" transform="translate(365 365)">
+    <title>Docker</title>
+    <image width="48" height="48" href="https://cdn.simpleicons.org/docker/2496ED"/>
+  </g>
+
+  <!-- Postman -->
+  <g class="icon float3" transform="translate(485 372)">
+    <title>Postman</title>
+    <image width="48" height="48" href="https://cdn.simpleicons.org/postman/FF6C37"/>
+  </g>
+
+  <!-- VS Code -->
+  <g class="icon float2" transform="translate(600 365)">
+    <title>Visual Studio Code</title>
+    <image width="48" height="48" href="https://cdn.simpleicons.org/visualstudiocode/007ACC"/>
+  </g>
+
+  <!-- IntelliJ IDEA -->
+  <g class="icon float4" transform="translate(715 365)">
+    <title>IntelliJ IDEA</title>
+    <image width="48" height="48" href="https://cdn.simpleicons.org/intellijidea/000000"/>
+  </g>
+
+  <!-- REST APIs / JWT / MediaPipe represented as terminal chips -->
+  <g class="float2">
+    <title>REST APIs</title>
+    <rect x="70" y="145" width="86" height="28" rx="14" fill="#161b22" stroke="#30363d"/>
+    <text x="113" y="164" text-anchor="middle" fill="#39d353" font-family="monospace" font-size="12">REST APIs</text>
+  </g>
+
+  <g class="float4">
+    <title>JWT</title>
+    <rect x="770" y="160" width="58" height="28" rx="14" fill="#161b22" stroke="#30363d"/>
+    <text x="799" y="179" text-anchor="middle" fill="#39d353" font-family="monospace" font-size="12">JWT</text>
+  </g>
+
+  <g class="float1">
+    <title>MediaPipe</title>
+    <rect x="760" y="250" width="90" height="28" rx="14" fill="#161b22" stroke="#30363d"/>
+    <text x="805" y="269" text-anchor="middle" fill="#39d353" font-family="monospace" font-size="12">MediaPipe</text>
+  </g>
+</svg>
