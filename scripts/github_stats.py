@@ -162,7 +162,7 @@ def main():
         "stars": total_stars,
 
         "total_contributions":
-            contributions["totalContributions"],
+            contributions["contributionCalendar"]["totalContributions"],
 
         "commits":
             contributions["totalCommitContributions"],
