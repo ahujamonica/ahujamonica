@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=monica%40github%3A~%24+whoami;Monica+Ahuja;Software+Engineer;Java+Backend+Developer;Building+%7C+Learning+%7C+Solving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=39D353&center=true&vCenter=true&width=700&lines=monica%40github%3A~%24+whoami;Monica+Ahuja;Software+Engineer;Java+Backend+Developer;Building+%7C+Learning+%7C+Solving" alt="Typing SVG" />
 
 </div>
 
@@ -36,5 +36,27 @@ interests:
 ## `$ tree tech-stack/`
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="850" alt="Technology Stack" />
+
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript" 
+       title="Java • C++ • Python • JavaScript • TypeScript"
+       alt="Java, C++, Python, JavaScript, TypeScript" />
+
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,html,css" 
+       title="Spring Boot • React • Node.js • HTML • CSS"
+       alt="Spring Boot, React, Node.js, HTML, CSS" />
+
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=tailwind,mysql,mongodb,aws,docker" 
+       title="Tailwind CSS • MySQL • MongoDB • AWS • Docker"
+       alt="Tailwind CSS, MySQL, MongoDB, AWS, Docker" />
+
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" 
+       title="Git • GitHub • Postman • VS Code • IntelliJ IDEA"
+       alt="Git, GitHub, Postman, VS Code, IntelliJ IDEA" />
+
 </p>
