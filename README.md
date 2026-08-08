@@ -158,3 +158,9 @@ A touchless virtual mouse that uses hand tracking to control cursor movement, cl
     alt="Contribution Snake"
   />
 </p>
+
+---
+
+<div align="center">
+<img src="./assets/avatar.png" width="420" alt="Monica Ahuja" />
+</div>
