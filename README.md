@@ -119,10 +119,14 @@ A touchless virtual mouse that uses hand tracking to control cursor movement, cl
   />
 </p>
 
+---
+
+## `$ contribution-snake`
+
 <p align="center">
   <img
-    src="./assets/github-stats.svg"
+    src="./assets/github-snake.svg"
     width="900"
-    alt="GitHub Statistics"
+    alt="Contribution Snake"
   />
 </p>
