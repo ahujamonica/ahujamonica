@@ -24,11 +24,10 @@ query($username: String!) {
       }
     }
 
-    contributionsCollection {
-      totalContributions
-      totalCommitContributions
-      totalIssueContributions
-      totalPullRequestContributions
+   contributionsCollection {
+    totalCommitContributions
+    totalIssueContributions
+    totalPullRequestContributions
 
       contributionCalendar {
         totalContributions
