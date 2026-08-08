@@ -162,5 +162,5 @@ A touchless virtual mouse that uses hand tracking to control cursor movement, cl
 ---
 
 <div align="center">
-<img src="./assets/download.gif" width="420" alt="Monica Ahuja" />
+<img src="./assets/download.gif" width="100%" alt="Monica Ahuja" />
 </div>
