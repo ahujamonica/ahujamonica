@@ -184,7 +184,7 @@ A touchless virtual mouse that uses hand tracking to control cursor movement, cl
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahujamonica&label=PROFILE+VIEWS&color=00ff41&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ahujamonica&label=PROFILE+VIEWS&color=003B00&style=flat-square" alt="Profile Views"/>
 </p>
 
 </div>
