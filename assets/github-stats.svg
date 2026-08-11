@@ -73,7 +73,7 @@
   </text>
 
   <text x="95" y="125" class="terminal value">
-    183
+    190
   </text>
 
   <text x="335" y="90" class="terminal label">
@@ -81,7 +81,7 @@
   </text>
 
   <text x="335" y="125" class="terminal value">
-    5 days
+    7 days
   </text>
 
   <text x="635" y="90" class="terminal label">
@@ -89,7 +89,7 @@
   </text>
 
   <text x="635" y="125" class="terminal value">
-    5 days
+    7 days
   </text>
 
   <!-- Divider -->
@@ -117,7 +117,7 @@
   </text>
 
   <text x="245" y="215" class="terminal value">
-    171
+    178
   </text>
 
 
@@ -161,7 +161,7 @@
     x="30"
     y="275"
     class="terminal small">
-    last_updated: 2026-08-10
+    last_updated: 2026-08-11
   </text>
 
   <circle
