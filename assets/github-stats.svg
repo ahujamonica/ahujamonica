@@ -81,7 +81,7 @@
   </text>
 
   <text x="335" y="125" class="terminal value">
-    1 days
+    0 days
   </text>
 
   <text x="635" y="90" class="terminal label">
@@ -161,7 +161,7 @@
     x="30"
     y="275"
     class="terminal small">
-    last_updated: 2026-08-25
+    last_updated: 2026-08-26
   </text>
 
   <circle
