@@ -73,7 +73,7 @@
   </text>
 
   <text x="95" y="125" class="terminal value">
-    318
+    324
   </text>
 
   <text x="335" y="90" class="terminal label">
@@ -117,7 +117,7 @@
   </text>
 
   <text x="245" y="215" class="terminal value">
-    266
+    272
   </text>
 
 
@@ -161,7 +161,7 @@
     x="30"
     y="275"
     class="terminal small">
-    last_updated: 2026-09-16
+    last_updated: 2026-09-17
   </text>
 
   <circle
