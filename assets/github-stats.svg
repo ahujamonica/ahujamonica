@@ -73,7 +73,7 @@
   </text>
 
   <text x="95" y="125" class="terminal value">
-    342
+    355
   </text>
 
   <text x="335" y="90" class="terminal label">
@@ -81,7 +81,7 @@
   </text>
 
   <text x="335" y="125" class="terminal value">
-    2 days
+    3 days
   </text>
 
   <text x="635" y="90" class="terminal label">
@@ -108,7 +108,7 @@
   </text>
 
   <text x="75" y="215" class="terminal value">
-    2
+    1
   </text>
 
 
@@ -117,7 +117,7 @@
   </text>
 
   <text x="245" y="215" class="terminal value">
-    309
+    315
   </text>
 
 
@@ -161,7 +161,7 @@
     x="30"
     y="275"
     class="terminal small">
-    last_updated: 2026-10-24
+    last_updated: 2026-10-25
   </text>
 
   <circle
